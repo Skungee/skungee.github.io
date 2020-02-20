@@ -1,2 +1,2 @@
-# https://skungee.github.io/index.html
+# https://skungee.github.io
 Temporary website
